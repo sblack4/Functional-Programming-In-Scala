@@ -1,0 +1,8 @@
+scala
+var arr:Array[Int] = new Array(1,2,3,4,5)
+arr:Array[Int] = new Array(1,2,3,4,5)
+arr = new Array(1,2,3,4,5)
+arr= new Array(1,2,3,4,5)
+arr=Array(1,2,3,4,5)
+var arr=Array(1,2,3,4,5)
+submit genseb7@gmail.com hsGlv9cdhbPOSDid
